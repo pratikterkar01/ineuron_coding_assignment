@@ -1,0 +1,24 @@
+1.	Write a Python program to print "Hello Python"?
+Ans= print(“Hello Python”)
+
+2.	Write a Python program to do arithmetical operations addition and division.?
+print(a+b)
+print(a/b)
+
+3.	Write a Python program to find the area of a triangle?
+area=(base*height)/2
+
+4.	Write a Python program to swap two variables?
+Ans= 
+a = 10
+b = 20
+x=a
+a=b
+b=x
+print(a,b)
+   
+
+           
+5.	Write a Python program to generate a random number?
+Import random
+Random.randint(1,10)
